@@ -1,3 +1,4 @@
+```
 www:
   image: arm32v7/wordpress
   container_name: sitename
@@ -27,3 +28,4 @@ db:
   environment:
     - MYSQL_ROOT_PASSWORD=examplepass
     - MYSQL_DATABASE=wordpress
+```
