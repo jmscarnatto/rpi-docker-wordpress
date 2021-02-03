@@ -1,4 +1,4 @@
-# Wordpress intallation on Raspberry Pi with Docker compose
+## Wordpress intallation on Raspberry Pi with Docker compose
 
 
 ```
